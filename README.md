@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey! My name's Virtualle
 
-<!--
-**VirtuallyExisting/VirtuallyExisting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I program in C, JS, Lua, Python, HTML, and CSS. Though my CSS skills aren't the best, but regardless.
 
-Here are some ideas to get you started:
+### My current projects
+Aurorachat, Let's Chat, AUX, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aurorachat
+A chatting app for the Nintendo 3DS line of systems, the Wii U, PC, Mobile, and coming soon, the Wii.
+
+Looks partially like IRC (Internet Relay Chat,) but underneath the hood it has been reworked to use more secure technology.
+
+### Let's Chat
+Aurorachat's sequel, not released yet, developed in collaboration with Project Rose, known for their TVii revival and their upcoming Miiverse revival, Roseverse.
+
+### AUX
+Among Us remade from scratch for the Nintendo 3DS and Wii.
