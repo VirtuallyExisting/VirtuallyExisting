@@ -2,14 +2,19 @@ Hello! My name is Virtualle, I specialize in programming for Nintendo consoles.
 
 ## Programming Languages I Know
 - C
+  
   Moderately experienced
 - JS
+  
   Getting familiar
 - LUA
+  
   Decently experienced
 - Python
+  
   Moderately experienced
 - Visual Basic
+  
   I haven't programmed in this for years
 
 ## History
