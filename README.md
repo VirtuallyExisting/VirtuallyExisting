@@ -1,4 +1,6 @@
-Hello! My name is Virtualle, I specialize in programming for Nintendo consoles.
+Hello! My name is Virtualle or VirtuallyExisting, I specialize in programming for Nintendo consoles.
+
+I am also known as "Cort" or "corg" sometimes, but you can always just refer to me as Virtualle.
 
 ## Programming Languages I Know
 - C
